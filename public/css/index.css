@@ -1,0 +1,37 @@
+.page-container {
+    min-height: 100vh;
+    background-color: black;
+}
+
+.page-container {
+    min-height: 100vh;
+}
+
+.logo-container {
+    max-width: 660px;
+    margin: auto;
+}
+
+.generated-title {
+    color: yellow;
+    text-transform: uppercase;
+}
+
+.button,
+.button.isLink,
+.button:focus {
+    margin: 10px;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+}
+
+
+.button:hover {
+    background-color: transparent;
+    color: white;
+}
+
+.button[disabled] {
+    background-color: transparent;
+}

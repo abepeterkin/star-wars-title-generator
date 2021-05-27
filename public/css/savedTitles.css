@@ -1,0 +1,17 @@
+.page-container {
+    min-height: 100vh;
+    background-color: black;
+}
+
+.saved-title {
+    color: yellow;
+    text-transform: uppercase;
+}
+
+.button,
+.button.isLink {
+    margin: 24px;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+}
